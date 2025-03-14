@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LabWeek2</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_bottom_nav">BottomNav</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_dropdown_menu">DropdownMenu</string>
+    <string name="title_activity_add_item">AddItem</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
